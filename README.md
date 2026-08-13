@@ -29,6 +29,13 @@ See [CLAUDE.md](CLAUDE.md) for a description of the file layout, columns, and co
 - sub-hourly ET drydown
 - comparing sub-hourly ET and soil moisture
 
+## References:
+- Zheng Fu et al. ,Critical soil moisture thresholds of plant water stress in terrestrial ecosystems.Sci. Adv.8,eabq7827(2022).DOI:10.1126/sciadv.abq7827
+- Denissen, J. M. C., Teuling, A. J., Reichstein, M., & Orth, R. (2020). Critical soil moisture derived from satellite observations over Europe. Journal of Geophysical Research: Atmospheres, 125, e2019JD031672. https://doi.org/10.1029/2019JD031672
+
+
+
+
 
 ## Requirements
 
